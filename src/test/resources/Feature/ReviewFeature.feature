@@ -1,5 +1,5 @@
 @EndToEnd
-Feature: Atumate end to end scenario
+Feature: Automate end to end scenario
 
   Background:  Generate Token
     Given url "https://tek-insurance-api.azurewebsites.net"
