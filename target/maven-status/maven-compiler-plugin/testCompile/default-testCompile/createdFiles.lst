@@ -1,2 +1,2 @@
 api\assignment\test\APIDataGenerator.class
-api\test\testrunner\ApiTestRunner.class
+api\test\testrunner\TestRunner.class
